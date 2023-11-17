@@ -1,10 +1,8 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
+# Regex Tutorial
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A tutorial on the functionality of Regex using the sample sequence of matching an emal: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Table of Contents
 
